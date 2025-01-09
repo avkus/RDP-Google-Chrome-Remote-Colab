@@ -2,8 +2,6 @@
 
 ## RDP with Google Chrome Remote Desktop (CRD) in Google Colab (Colaboratory)
 
-![.](RDP_Screenshot_2.png)
-
 # Read This Before Rushing To Download Colab Workflow 💀
 
 * i'm **not responsible** for **suspended Google accounts**
