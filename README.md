@@ -2,6 +2,8 @@
 
 ## RDP with Google Chrome Remote Desktop (CRD) in Google Colab (Colaboratory)
 
+![.](RDP_Screenshot_2.png)
+
 # Read This Before Rushing To Download Colab Workflow 💀
 
 * i'm **not responsible** for **suspended Google accounts**
@@ -32,7 +34,7 @@ RDP Description:
 
 ## Ubuntu RDP Install and Run
     
-*  [**Click Here**](https://github.com/avkus/RDP-Google-Chrome-Remote-Colab/blob/master/Commands.txt) To Go View RDP Run Command And Copy.
+*  [**Click Here**](https://github.com/virtualEmanPC/RDP-with-Google-Chrome-Remote-Desktop-in-Google-Colab/blob/main/Command.txt) To Go View RDP Run Command And Copy.
 
 *  Go To [**Google Colab**](https://colab.research.google.com/) And Create New Notbook.
 
@@ -62,3 +64,5 @@ RDP Description:
 
 </details>
 
+
+### You Can See ID , Username , Pass , Pc Name And Cool Ascki Art 

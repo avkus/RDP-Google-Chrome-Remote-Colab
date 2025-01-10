@@ -2,8 +2,9 @@ import os
 import subprocess
 import shutil
 
-print("User Manule : https://github.com/avkus/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab?tab=readme-ov-file#ubuntu-rdp-install-and-run")
+print("User Manule : https://github.com/virtualEmanPC/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab?tab=readme-ov-file#ubuntu-rdp-install-and-run")
 print(" ")
+
 print("Write A Username And Password")
 
 Username = input("User Name  : ")
@@ -70,7 +71,7 @@ class CRDSetup:
 
     @staticmethod
     def changewall():
-        os.system(f"curl -s -L -k -o xfce-verticals.png https://raw.githubusercontent.com/avkus/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab/main/Wallpaper2.png")
+        os.system(f"curl -s -L -k -o xfce-verticals.png https://raw.githubusercontent.com/virtualEmanPC/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab/main/Wallpaper2.png")
         current_directory = os.getcwd()
         custom_wallpaper_path = os.path.join(current_directory, "xfce-verticals.png")
         destination_path = '/usr/share/backgrounds/xfce/'
@@ -108,6 +109,8 @@ X-GNOME-Autostart-enabled=true""".format(link)
         os.system("service chrome-remote-desktop start")
 
         print(".............................................................................................................................")
+        print(".....Created By The Disala...................................................................................................")
+        print(".....Modified By Virtual Eman PC.............................................................................................")
         print(".............................................................................................................................")
         print(".##.......##..######..######..######..##....##...####...##........######..####...####...####...####....##....######..######..")
         print("..##.....##.....##....##..##....##....##....##..##..##..##........##......##.##.##.##..##..##..##.##...##....##..##..##......")
