@@ -1,2 +1,2 @@
-!curl -s -L -o rdp.py https://github.com/avkus/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab/raw/main/rdp.py
+!curl -s -L -o rdp.py https://github.com/avkus/RDP-Google-Chrome-Remote-Colab/blob/master/rdp.py
 !python rdp.py
