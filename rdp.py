@@ -36,7 +36,7 @@ class CRDSetup:
         self.installDesktopEnvironment()
         self.changewall()
         self.installGoogleChrome()
-        self.installTelegram()
+#        self.installTelegram()
         self.installQbit()
         self.finish(user)
 
