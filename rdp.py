@@ -2,7 +2,7 @@ import os
 import subprocess
 import shutil
 
-print("User Manule : https://github.com/virtualEmanPC/RDP-with-Google-Chrome-Remote-Desktop-on-Google-Colab?tab=readme-ov-file#ubuntu-rdp-install-and-run")
+print("User Manule : https://github.com/avkus/RDP-Google-Chrome-Remote-Colab?tab=readme-ov-file#ubuntu-rdp-install-and-run")
 print(" ")
 
 print("Write A Username And Password")
